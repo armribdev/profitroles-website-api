@@ -1,0 +1,14 @@
+{
+  "name": "profitroles-website-api",
+  "version": "1.0.0",
+  "description": "API pour le site web de l'association de théâtre de l'UTC Profit'Rôles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Armand Ribault",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
